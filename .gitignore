@@ -1,0 +1,7 @@
+*.log
+*.txt
+*.zip
+*.deb
+ngrok
+cloudflared
+saved_locations/
