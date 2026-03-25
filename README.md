@@ -1,5 +1,9 @@
 
 # CamPhish (Educational Demonstration Only)
+<img width="793" height="492" alt="Screenshot From 2026-03-25 18-16-16" src="https://github.com/user-attachments/assets/94c4db1a-a56c-41f7-9252-1c58ccb5c077" />
+
+made with nitin 
+
 
 ## ⚠️ Disclaimer
 This project is strictly for **educational purposes only**.  
